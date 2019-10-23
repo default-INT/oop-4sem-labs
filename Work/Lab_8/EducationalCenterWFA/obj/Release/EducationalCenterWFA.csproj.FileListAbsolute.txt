@@ -1,0 +1,16 @@
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\bin\Release\EducationalCenterWFA.exe.config
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\bin\Release\EducationalCenterWFA.exe
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\bin\Release\EducationalCenterWFA.pdb
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\bin\Release\EducationalCenter.dll
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\bin\Release\EducationalCenter.pdb
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.AddLearnerForm.resources
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.AddWorkerForm.resources
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.DeleteForm.resources
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.Form1.resources
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.Properties.Resources.resources
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.csproj.GenerateResource.cache
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.csproj.CopyComplete
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.exe
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenterWFA\obj\Release\EducationalCenterWFA.pdb

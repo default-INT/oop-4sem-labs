@@ -1,0 +1,15 @@
+[TestMethod]
+        public void ConvertRubToUsd_ThreeHundredTwentyNine()
+        {
+            String actual = StrEdit.ConvertRubToUsd("tree hundred twenty NINE");
+            String expected = "six hundred fifty eight";
+            Assert.AreEqual(expected, actual);
+        }
+
+[TestMethod]
+        public void ConvertRubToUsd_FourThousandThreeHundredTwentyNine()
+        {
+            String actual = StrEdit.ConvertRubToUsd("four thousand tree hundred twenty NINE");
+            String expected = "eight thousand six hundred fifty eight";
+            Assert.AreEqual(expected, actual);
+        }

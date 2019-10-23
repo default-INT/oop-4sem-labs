@@ -1,0 +1,5 @@
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayClassLibrary\bin\Release\ArrayClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayClassLibrary\bin\Release\ArrayClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayClassLibrary\obj\Release\ArrayClassLibrary.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayClassLibrary\obj\Release\ArrayClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayClassLibrary\obj\Release\ArrayClassLibrary.pdb

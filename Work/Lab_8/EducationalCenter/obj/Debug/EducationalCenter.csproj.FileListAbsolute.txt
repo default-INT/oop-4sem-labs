@@ -1,0 +1,6 @@
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\bin\Debug\EducationalCenter.dll
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\bin\Debug\EducationalCenter.pdb
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\obj\Debug\EducationalCenter.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\obj\Debug\EducationalCenter.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\obj\Debug\EducationalCenter.dll
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\obj\Debug\EducationalCenter.pdb

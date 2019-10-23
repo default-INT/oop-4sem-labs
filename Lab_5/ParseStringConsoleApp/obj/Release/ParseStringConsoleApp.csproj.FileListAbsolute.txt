@@ -1,0 +1,10 @@
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\bin\Release\ParseStringConsoleApp.exe.config
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\bin\Release\ParseStringConsoleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\bin\Release\ParseStringConsoleApp.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\bin\Release\ParseString.dll
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\bin\Release\ParseString.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\obj\Release\ParseStringConsoleApp.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\obj\Release\ParseStringConsoleApp.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\obj\Release\ParseStringConsoleApp.csproj.CopyComplete
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\obj\Release\ParseStringConsoleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseStringConsoleApp\obj\Release\ParseStringConsoleApp.pdb

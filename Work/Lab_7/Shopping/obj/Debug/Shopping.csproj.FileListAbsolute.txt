@@ -1,0 +1,6 @@
+D:\Other\GSTU\semester_4\OOP\Work\Lab_7\Shopping\bin\Debug\Shopping.dll
+D:\Other\GSTU\semester_4\OOP\Work\Lab_7\Shopping\bin\Debug\Shopping.pdb
+D:\Other\GSTU\semester_4\OOP\Work\Lab_7\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Work\Lab_7\Shopping\obj\Debug\Shopping.dll
+D:\Other\GSTU\semester_4\OOP\Work\Lab_7\Shopping\obj\Debug\Shopping.pdb
+D:\Other\GSTU\semester_4\OOP\Work\Lab_7\Shopping\obj\Debug\Shopping.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\evgen\source\repos\Lab2\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+C:\Users\evgen\source\repos\Lab2\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+C:\Users\evgen\source\repos\Lab2\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+C:\Users\evgen\source\repos\Lab2\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\Lab2\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+C:\Users\evgen\source\repos\Lab2\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb

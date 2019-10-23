@@ -1,0 +1,10 @@
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.exe.config
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\bin\Debug\ArrayClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\bin\Debug\ArrayClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.CopyComplete
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_3\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.pdb

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TriangleClassLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:TriangleClassLibrary.Triangle">
+            <summary>
+            Описывает треугольник по 3 вершинам
+            </summary>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Конструктор класса Tiriangle c параметрами
+            </summary>
+            <param name="x1"></param>
+            <param name="y1"></param>
+            <param name="x2"></param>
+            <param name="y2"></param>
+            <param name="x3"></param>
+            <param name="y3"></param>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.len(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Находит длину отрезка по 2-м точкам
+            </summary>
+            <param name="x1"></param>
+            <param name="y1"></param>
+            <param name="x2"></param>
+            <param name="y2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.lenA">
+            <summary>
+            Находит длину стороны треугольника между точками x1, y1 и x2, y2
+            </summary>
+            <returns>Возвращает длину стороны A</returns>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.lenB">
+            <summary>
+            Находит длину стороны треугольника между точками x1, y1 и x3, y3
+            </summary>
+            <returns>Возвращает длину стороны B</returns>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.lenC">
+            <summary>
+            Находит длину стороны треугольника между точками x2, y2 и x3, y3
+            </summary>
+            <returns>Возвращает длину стороны C</returns>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.getP">
+            <summary>
+            Находит периметр треугольника
+            </summary>
+            <returns>Возращает периметр (double)</returns>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.getS">
+            <summary>
+            Находит площадь треугольника по формуле Герона
+            </summary>
+            <returns>Возвращает площадь треугольника (double)</returns>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.chekPoint(System.Double,System.Double)">
+            <summary>
+            Проверяет лежит ли точка x0 в треугольнике
+            </summary>
+            <param name="x0">Координата точки по оси OX</param>
+            <param name="y0">Координата точки по оси OY</param>
+            <returns>Если точка лежит в треугольнике возвращет true, иначе false</returns>
+        </member>
+        <member name="M:TriangleClassLibrary.Triangle.checkTriangle">
+            <summary>
+            Проверяет треугольник на существование
+            </summary>
+            <returns>Если треугольник существует возвращает true, иначе false</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,53 @@
+﻿<Page x:Class="ShoppingWPF.DeleteProductPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShoppingWPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="780"
+      Title="DeleteProductPage" Loaded="DeleteProductPage_Loaded">
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="GT Walsheim Pro"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="32"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontFamily" Value="GT Walsheim Pro"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="32"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontFamily" Value="GT Walsheim Pro"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Background" Value="#FF004E90"/>
+            <Setter Property="Foreground" Value="#ffffffff"/>
+            <Setter Property="BorderBrush" Value="{x:Null}"/>
+            <Setter Property="Width" Value="180"/>
+            <Style.Triggers>
+                <Trigger Property="IsEnabled" Value="false">
+                    <Setter Property="Background" Value="DarkGray"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Label x:Name="label" Content="УДАЛЕНИЕ ТОВАРА" HorizontalAlignment="Left" Margin="10,10,0,0"
+               VerticalAlignment="Top" FontSize="28" Height="45"/>
+        <Label x:Name="label1" Content="Выберите товар:" HorizontalAlignment="Left" Margin="99,94,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="productsComboBox" HorizontalAlignment="Left" Margin="307,104,0,0" VerticalAlignment="Top" Width="227"/>
+        <Button x:Name="deleteButton" Content="УДАЛИТЬ" HorizontalAlignment="Left"
+                Margin="99,170,0,0" VerticalAlignment="Top" Width="180" Height="35" Background="#FF9C0909" Click="DeleteButton_Click"/>
+        <Label x:Name="msgLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="56,225,0,0"/>
+
+    </Grid>
+</Page>

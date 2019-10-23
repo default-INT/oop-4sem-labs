@@ -1,0 +1,10 @@
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\bin\Release\MatrixConsoleApp.exe.config
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\bin\Release\MatrixConsoleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\bin\Release\MatrixConsoleApp.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\bin\Release\MatrixClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\bin\Release\MatrixClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\obj\Release\MatrixConsoleApp.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\obj\Release\MatrixConsoleApp.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\obj\Release\MatrixConsoleApp.csproj.CopyComplete
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\obj\Release\MatrixConsoleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixConsoleApp\obj\Release\MatrixConsoleApp.pdb

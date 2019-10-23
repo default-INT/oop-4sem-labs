@@ -1,0 +1,6 @@
+D:\Other\GSTU\semester_4\OOP\Lab_4\StringEdit\bin\Debug\StringEdit.dll
+D:\Other\GSTU\semester_4\OOP\Lab_4\StringEdit\bin\Debug\StringEdit.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_4\StringEdit\obj\Debug\StringEdit.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_4\StringEdit\obj\Debug\StringEdit.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_4\StringEdit\obj\Debug\StringEdit.dll
+D:\Other\GSTU\semester_4\OOP\Lab_4\StringEdit\obj\Debug\StringEdit.pdb

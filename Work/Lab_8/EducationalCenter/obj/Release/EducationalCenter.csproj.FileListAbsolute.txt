@@ -1,0 +1,5 @@
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\bin\Release\EducationalCenter.dll
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\bin\Release\EducationalCenter.pdb
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\obj\Release\EducationalCenter.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\obj\Release\EducationalCenter.dll
+D:\Other\GSTU\semester_4\OOP\Work\Lab_8\EducationalCenter\obj\Release\EducationalCenter.pdb

@@ -1,0 +1,14 @@
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\bin\Debug\PolygonsWFA.exe.config
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\bin\Debug\PolygonsWFA.exe
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\bin\Debug\PolygonsWFA.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\bin\Debug\Polygons.dll
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\bin\Debug\Polygons.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.Form1.resources
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.Properties.Resources.resources
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.csproj.GenerateResource.cache
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.csproj.CopyComplete
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.exe
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_8\PolygonsWFA\obj\Debug\PolygonsWFA.AddPolygonForm.resources

@@ -1,0 +1,6 @@
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixException\bin\Debug\MatrixException.dll
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixException\bin\Debug\MatrixException.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixException\obj\Debug\MatrixException.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixException\obj\Debug\MatrixException.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixException\obj\Debug\MatrixException.dll
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixException\obj\Debug\MatrixException.pdb

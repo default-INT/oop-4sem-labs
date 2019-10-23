@@ -1,0 +1,16 @@
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\bin\Debug\MatrixWFA.exe.config
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\bin\Debug\MatrixWFA.exe
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\bin\Debug\MatrixWFA.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.Form1.resources
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.InputMatrixForm.resources
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.Properties.Resources.resources
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.csproj.GenerateResource.cache
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.exe
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\bin\Debug\MatrixClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\bin\Debug\MatrixException.dll
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\bin\Debug\MatrixClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\bin\Debug\MatrixException.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_9\MatrixWFA\obj\Debug\MatrixWFA.csproj.CopyComplete

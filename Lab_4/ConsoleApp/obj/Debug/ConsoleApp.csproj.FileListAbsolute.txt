@@ -1,0 +1,10 @@
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\bin\Debug\StringEdit.dll
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\bin\Debug\StringEdit.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_4\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,5 @@
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseString\bin\Release\ParseString.dll
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseString\bin\Release\ParseString.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseString\obj\Release\ParseStringLib.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseString\obj\Release\ParseString.dll
+D:\Other\GSTU\semester_4\OOP\Lab_5\ParseString\obj\Release\ParseString.pdb

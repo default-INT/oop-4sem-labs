@@ -1,0 +1,14 @@
+4 3 5 Red
+2 2 Black
+4 Blue
+3 3 Green
+9 8 4 White
+5 2 4 Black
+3 4 5 Red
+8 6 10 Red
+8 6 9 Red
+8 10 Red
+8 6 10 Black
+8 6 10 Green
+8 6 10 Yellow
+8 6 10 Orange

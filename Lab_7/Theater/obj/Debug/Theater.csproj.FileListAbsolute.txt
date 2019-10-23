@@ -1,0 +1,6 @@
+D:\Other\GSTU\semester_4\OOP\Lab_7\Theater\bin\Debug\Theater.dll
+D:\Other\GSTU\semester_4\OOP\Lab_7\Theater\bin\Debug\Theater.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_7\Theater\obj\Debug\Theater.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_7\Theater\obj\Debug\Theater.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_7\Theater\obj\Debug\Theater.dll
+D:\Other\GSTU\semester_4\OOP\Lab_7\Theater\obj\Debug\Theater.pdb

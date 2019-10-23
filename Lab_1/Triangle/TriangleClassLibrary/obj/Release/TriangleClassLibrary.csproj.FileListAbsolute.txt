@@ -1,0 +1,7 @@
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\TriangleClassLibrary\bin\Release\TriangleClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\TriangleClassLibrary\bin\Release\TriangleClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\TriangleClassLibrary\obj\Release\TriangleClassLibrary.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\TriangleClassLibrary\obj\Release\TriangleClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\TriangleClassLibrary\obj\Release\TriangleClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\TriangleClassLibrary\bin\Release\TriangleClassLibrary.xml
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\TriangleClassLibrary\obj\Release\TriangleClassLibrary.csprojAssemblyReference.cache

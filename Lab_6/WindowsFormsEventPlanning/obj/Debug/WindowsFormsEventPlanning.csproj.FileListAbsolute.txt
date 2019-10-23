@@ -1,0 +1,15 @@
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\bin\Debug\WindowsFormsEventPlanning.exe.config
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\bin\Debug\WindowsFormsEventPlanning.exe
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\bin\Debug\WindowsFormsEventPlanning.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.Form1.resources
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.Properties.Resources.resources
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.csproj.GenerateResource.cache
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.exe
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.AddEventForm.resources
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\bin\Debug\EventPlanningLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\bin\Debug\EventPlanningLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.csproj.CopyComplete
+D:\Other\GSTU\semester_4\OOP\Lab_6\WindowsFormsEventPlanning\obj\Debug\WindowsFormsEventPlanning.DeleteEventForm.resources

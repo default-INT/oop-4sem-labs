@@ -1,0 +1,6 @@
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\bin\Release\MatrixClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\bin\Release\MatrixClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\obj\Release\MatrixClassLibrary.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\obj\Release\MatrixClassLibrary.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\obj\Release\MatrixClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_2\MatrixClassLibrary\obj\Release\MatrixClassLibrary.pdb

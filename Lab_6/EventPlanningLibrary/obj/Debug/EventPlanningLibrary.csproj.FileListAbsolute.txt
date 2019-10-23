@@ -1,0 +1,6 @@
+D:\Other\GSTU\semester_4\OOP\Lab_6\EventPlanningLibrary\bin\Debug\EventPlanningLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_6\EventPlanningLibrary\bin\Debug\EventPlanningLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_6\EventPlanningLibrary\obj\Debug\EventPlanningLibrary.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_6\EventPlanningLibrary\obj\Debug\EventPlanningLibrary.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_6\EventPlanningLibrary\obj\Debug\EventPlanningLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_6\EventPlanningLibrary\obj\Debug\EventPlanningLibrary.pdb

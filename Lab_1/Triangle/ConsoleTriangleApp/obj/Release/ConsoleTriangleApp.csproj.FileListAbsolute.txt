@@ -1,0 +1,12 @@
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\bin\Release\ConsoleTriangleApp.exe.config
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\bin\Release\ConsoleTriangleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\bin\Release\ConsoleTriangleApp.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\bin\Release\TriangleClassLibrary.dll
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\bin\Release\TriangleClassLibrary.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\obj\Release\ConsoleTriangleApp.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\obj\Release\ConsoleTriangleApp.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\obj\Release\ConsoleTriangleApp.csproj.CopyComplete
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\obj\Release\ConsoleTriangleApp.exe
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\obj\Release\ConsoleTriangleApp.pdb
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\bin\Release\ConsoleTriangleApp.xml
+D:\Other\GSTU\semester_4\OOP\Lab_1\Triangle\ConsoleTriangleApp\bin\Release\TriangleClassLibrary.xml

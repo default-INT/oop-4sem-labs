@@ -1,0 +1,52 @@
+﻿<Page x:Class="TheaterWPF.DeleteTicketPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TheaterWPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="592"
+      Title="DeleteTicketPage">
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="GT Walsheim Pro"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontFamily" Value="GT Walsheim Pro"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+
+        </Style>
+    </Page.Resources>
+    <Grid Loaded="Page_Loaded">
+        <Label x:Name="headlineLabel" Content="ВОЗВРАТ БИЛЕТА" HorizontalAlignment="Left" FontSize="36"
+               Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="clientNameLabel" Content="Выберите клиента:" HorizontalAlignment="Left"
+               Margin="50,86,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="clientsComboBox" HorizontalAlignment="Left" Margin="262,93,0,0" VerticalAlignment="Top" Width="245"/>
+        <Label x:Name="performanceLabel" Content="Выберите спектакль: " HorizontalAlignment="Left" Margin="50,129,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="performancesComboBox" HorizontalAlignment="Left" Margin="262,136,0,0" VerticalAlignment="Top" Width="245" SelectionChanged="PerformancesComboBox_SelectionChanged"/>
+        <Label x:Name="typeLabel" Content="Выберите тип билета:" HorizontalAlignment="Left" Margin="50,208,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="typeComboBox" HorizontalAlignment="Left" Margin="262,215,0,0" VerticalAlignment="Top" Width="245">
+            <TextBlock Text="Партерр"/>
+            <TextBlock Text="Балкон"/>
+            <TextBlock Text="Ложа"/>
+        </ComboBox>
+        <Button x:Name="deleteButton" Content="ВЕРНУТЬ БИЛЕТ" HorizontalAlignment="Left" Margin="50,257,0,0" VerticalAlignment="Top" Width="130"
+            Height="30" FontFamily="GT Walsheim Pro" FontSize="15" Background="Red"
+            BorderBrush="{x:Null}" Cursor="Hand" Foreground="White" Click="DeleteButton_Click"/>
+        <Label x:Name="dateLabel" Content="Дата проведения:" HorizontalAlignment="Left" Margin="50,170,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="dateComboBox" HorizontalAlignment="Left" Margin="262,177,0,0" VerticalAlignment="Top" Width="245"/>
+        <TextBlock x:Name="msgTextBlock" HorizontalAlignment="Left" Margin="50,303,0,0" TextWrapping="Wrap"
+                   Text="" Foreground="Green" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Page>
